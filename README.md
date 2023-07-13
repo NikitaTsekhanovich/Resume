@@ -6,15 +6,15 @@
 
 # - Прошел три курса с выполнением имеющихся заданий по языку C#;
 
-https://ulearn.me/course/basicprogramming2/1d5457ac-46f1-43af-b902-abfba0a0c280
-https://ulearn.me/course/basicprogramming/a7a73125-2434-4b5d-9f31-4ef687fc8bcc
-https://ulearn.me/course/cs2/7df81bac-f52c-4219-8663-4d215bafbc7a
+- https://ulearn.me/course/basicprogramming2/1d5457ac-46f1-43af-b902-abfba0a0c280
+- https://ulearn.me/course/basicprogramming/a7a73125-2434-4b5d-9f31-4ef687fc8bcc
+- https://ulearn.me/course/cs2/7df81bac-f52c-4219-8663-4d215bafbc7a
 
 # - Курс машинного обучения;
 https://ulearn.me/Course/ML/Toxic_network_8922e2bf-5a64-4ad6-b798-d17de68a11e5
 
 # - Протоколы интернета;
-https://ulearn.me/Course/internet/Protokol_DHCP_5276e8ad-84d0-43ce-83be-dd930ace8d1a
+https://ulearn.me/course/internet/Osnovy_organizatsii_komp_yuternykh_setey_21d5b967-68a2-44fb-ba97-52f11cb5fcb2
 
 # - Основы веб-разработки;
 https://ulearn.me/Course/basic-web/Praktika_Tablitsy_i_formy_b4c85000-f3ff-4f4f-9ab0-098d2a8cf0cb

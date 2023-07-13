@@ -70,6 +70,6 @@ https://ulearn.me/course/db/Podgotovka_985c5462-c6d1-47c9-9b8f-a270f24b7b42
 По кнопке оформить отправляется письмо тому, кто выставил продукт, а также, тому, кто выполнил заказ. 
 
 ### Python (Описание проектов в репозиториях)
-Игра BattleCity https://github.com/NikitaTsekhanovich/BattleCity 
-Караоке https://github.com/NikitaTsekhanovich/Karaoke
-Утилита для работы с файлами в облаке https://github.com/NikitaTsekhanovich/Cloud
+# Игра BattleCity https://github.com/NikitaTsekhanovich/BattleCity 
+# Караоке https://github.com/NikitaTsekhanovich/Karaoke
+# Утилита для работы с файлами в облаке https://github.com/NikitaTsekhanovich/Cloud

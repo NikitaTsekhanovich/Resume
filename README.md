@@ -1,7 +1,43 @@
 ### Resume
 
+№ Немного о себе. 
+# Учусь на матмехе в УрФУ ИЕНиМ (Уральский федеральный университет. Институт естественных наук и математики) факультет ФИИТ (фундаментальная информатика и информационные технологии) на 3 курсе. В учебном курсе изучил и получил навыки по следующим основным навпревлениям:
+
+# Прошел три курса с выполнением имеющихся заданий по языку C#.
+
+https://ulearn.me/course/basicprogramming2/1d5457ac-46f1-43af-b902-abfba0a0c280
+https://ulearn.me/course/basicprogramming/a7a73125-2434-4b5d-9f31-4ef687fc8bcc
+https://ulearn.me/course/cs2/7df81bac-f52c-4219-8663-4d215bafbc7a
+
+# Курс машинного обучения.
+https://ulearn.me/Course/ML/Toxic_network_8922e2bf-5a64-4ad6-b798-d17de68a11e5
+
+# Протоколы интернета.
+https://ulearn.me/Course/internet/Protokol_DHCP_5276e8ad-84d0-43ce-83be-dd930ace8d1a
+
+# Основы веб-разработки.
+https://ulearn.me/Course/basic-web/Praktika_Tablitsy_i_formy_b4c85000-f3ff-4f4f-9ab0-098d2a8cf0cb
+
+# Работа с базами данных
+https://ulearn.me/course/db/Podgotovka_985c5462-c6d1-47c9-9b8f-a270f24b7b42
+
+# А также курсы в рамках учебы по языку python.
+
+# Soft skills:
+- Стрессоустойчивый;
+- Пунктуальный;
+- Умею находить решения для трудных задач;
+- Постоянно развиваюсь;
+- Нахожу общий язык с людьми;
+- Коммуникабельный.
+
+# Немного из общих навыков:
+- Писал проекты в команде;
+- Умею работать с Git'ом.
+
 ### C#
 # Игра 3D Shooter https://github.com/NikitaTsekhanovich/ShooterSurvivalZombie3D (описание в репозитории)
+# Ссылка на сборку игры https://drive.google.com/drive/folders/1C3BNeC1KQUw51MgFOLqraQsEs_yKrA8u?usp=drive_link
 
 # База данных для "ООО Автовек" https://github.com/SquirrelWithAvocado/BD-Autovek- 
 # Интерфейс приложения: https://www.figma.com/file/GBM6juOXcsFesleLaBvfPc/Project?type=design&mode=design
@@ -10,6 +46,7 @@
 Клиенты, машины и сотрудники хранятся в БД.
 
 # Игра 2D https://github.com/NikitaTsekhanovich/MainGame1 (описание в репозитории)
+# Ссылка на сборку игры https://drive.google.com/drive/folders/1C3BNeC1KQUw51MgFOLqraQsEs_yKrA8u?usp=drive_link
 
 ### JavaScript
 Сайт FiitExpress https://github.com/SixBlueBlack/FiitExpress

@@ -1,12 +1,15 @@
 # Resume
 
+# C#
+Игра 3D Shooter https://github.com/NikitaTsekhanovich/ShooterSurvivalZombie3D
+База данных для "ООО Автовек" https://github.com/SquirrelWithAvocado/BD-Autovek-
+Сайт компании https://avtovek.lada.ru/ (официальный диллер Lada)
+Игра 2D https://github.com/NikitaTsekhanovich/MainGame1
+
 # Java 
 Сайт FiitExpress https://github.com/SixBlueBlack/FiitExpress
 
 # Python 
 Игра BattleCity https://github.com/NikitaTsekhanovich/BattleCity
-![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/b6823601-f3f4-4be7-b7c5-91c204cd9394)
-
-
-# C#
-
+Караоке https://github.com/NikitaTsekhanovich/Karaoke
+Утилита для работы с файлами в облаке https://github.com/NikitaTsekhanovich/Cloud

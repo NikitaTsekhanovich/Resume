@@ -17,7 +17,7 @@ https://ulearn.me/Course/ML/Toxic_network_8922e2bf-5a64-4ad6-b798-d17de68a11e5
 https://ulearn.me/course/internet/Osnovy_organizatsii_komp_yuternykh_setey_21d5b967-68a2-44fb-ba97-52f11cb5fcb2
 
 # - Основы веб-разработки;
-https://ulearn.me/Course/basic-web/Praktika_Tablitsy_i_formy_b4c85000-f3ff-4f4f-9ab0-098d2a8cf0cb
+https://ulearn.me/course/basic-web/Teoriya_7ac1f6d9-41d6-4309-8eda-8786ccc3f990
 
 # - Работа с базами данных;
 https://ulearn.me/course/db/Podgotovka_985c5462-c6d1-47c9-9b8f-a270f24b7b42

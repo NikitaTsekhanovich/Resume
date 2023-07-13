@@ -11,7 +11,7 @@
 
 # Игра 2D https://github.com/NikitaTsekhanovich/MainGame1 (описание в репозитории)
 
-### Java 
+### JavaScript
 Сайт FiitExpress https://github.com/SixBlueBlack/FiitExpress
 
 # Скриншоты 

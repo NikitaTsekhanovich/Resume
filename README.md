@@ -1,34 +1,34 @@
 ### Resume
 
 # Немного о себе. 
-# Меня зовут Цеханович Никита Дмитриевич 17.02.2000 года рождения. Опыт работы в сфере IT отсутсвует. Работал 5 лет в атриум палас отеле официантом, барменом и менеджером.
-# Учусь на матмехе в УрФУ ИЕНиМ (Уральский федеральный университет. Институт естественных наук и математики) факультет ФИИТ (фундаментальная информатика и информационные технологии) на 3 курсе. Год окончания обучения 2025. В учебном курсе изучил и получил навыки по следующим основным навпревлениям:
+### Меня зовут Цеханович Никита Дмитриевич 17.02.2000 года рождения. Опыт работы в сфере IT отсутсвует. Работал 5 лет в атриум палас отеле официантом, барменом и менеджером.
+### Учусь на матмехе в УрФУ ИЕНиМ (Уральский федеральный университет. Институт естественных наук и математики) факультет ФИИТ (фундаментальная информатика и информационные технологии) на 3 курсе. Год окончания обучения 2025. В учебном курсе изучил и получил навыки по следующим основным направлениям:
 
-# - Прошел три курса с выполнением имеющихся заданий по языку C# (глубокое изучение языка C# и паттернов программирования);
+### - Прошел три курса с выполнением имеющихся заданий по языку C# (глубокое изучение языка C# и паттернов программирования);
 
 - https://ulearn.me/course/basicprogramming2/1d5457ac-46f1-43af-b902-abfba0a0c280
 - https://ulearn.me/course/basicprogramming/a7a73125-2434-4b5d-9f31-4ef687fc8bcc
 - https://ulearn.me/course/cs2/7df81bac-f52c-4219-8663-4d215bafbc7a
 
-# - Курс машинного обучения;
+### - Курс машинного обучения;
 https://ulearn.me/Course/ML/Toxic_network_8922e2bf-5a64-4ad6-b798-d17de68a11e5
 
-# - Протоколы интернета (изучение всех уровней модели TCP/IP, в том числе обмены ключами и прочее);
+### - Протоколы интернета (изучение всех уровней модели TCP/IP, в том числе обмены ключами и прочее);
 https://ulearn.me/course/internet/Osnovy_organizatsii_komp_yuternykh_setey_21d5b967-68a2-44fb-ba97-52f11cb5fcb2
 
-# - Основы веб-разработки (изучение языка JavaScript, написание полноценного сайта. Ссылка на репозиторий сайта и скриншоты ниже);
+### - Основы веб-разработки (изучение языка JavaScript, написание полноценного сайта. Ссылка на репозиторий сайта и скриншоты ниже);
 https://ulearn.me/course/basic-web/Teoriya_7ac1f6d9-41d6-4309-8eda-8786ccc3f990
 
-# - Работа с базами данных (запросы на SQL);
+### - Работа с базами данных (запросы на SQL);
 https://ulearn.me/course/db/Podgotovka_985c5462-c6d1-47c9-9b8f-a270f24b7b42
 
-# - Язык python;
-# - Изучение работы операционных систем и архитектуры ЭВМ;
-# - Основы продуктового дизайна;
-# - Алгоритмы и сложность алгоротмов;
-# - Создание продукта.
+### - Язык python;
+### - Изучение работы операционных систем и архитектуры ЭВМ;
+### - Основы продуктового дизайна;
+### - Алгоритмы и сложность алгоротмов;
+### - Создание продукта.
 
-# Soft skills:
+### Soft skills:
 - Стрессоустойчивый;
 - Пунктуальный;
 - Умею находить решения для трудных задач;
@@ -36,24 +36,24 @@ https://ulearn.me/course/db/Podgotovka_985c5462-c6d1-47c9-9b8f-a270f24b7b42
 - Нахожу общий язык с людьми;
 - Коммуникабельный.
 
-# Немного из общих навыков:
+### Немного из общих навыков:
 - Делал проекты в команде;
 - Имею понимание об публикациях игр в Steam и Google Play;
 - Умею работать с Git'ом.
 
 # Проекты
 ### C#
-# Игра 3D Shooter https://github.com/NikitaTsekhanovich/ShooterSurvivalZombie3D (описание в репозитории)
-# Ссылка на сборку игры https://drive.google.com/uc?export=download&id=1K7JwwLuE7Fn0XK_Xkfkvc00Ym2bOOOte
+### Игра 3D Shooter https://github.com/NikitaTsekhanovich/ShooterSurvivalZombie3D (описание в репозитории)
+### Ссылка на сборку игры https://drive.google.com/uc?export=download&id=1K7JwwLuE7Fn0XK_Xkfkvc00Ym2bOOOte
 
-# База данных для "ООО Автовек" https://github.com/SquirrelWithAvocado/BD-Autovek- 
-# Интерфейс приложения: https://www.figma.com/file/GBM6juOXcsFesleLaBvfPc/Project?type=design&mode=design
-# Сайт компании https://avtovek.lada.ru/ (официальный диллер Lada)
+### База данных для "ООО Автовек" https://github.com/SquirrelWithAvocado/BD-Autovek- 
+### Интерфейс приложения: https://www.figma.com/file/GBM6juOXcsFesleLaBvfPc/Project?type=design&mode=design
+### Сайт компании https://avtovek.lada.ru/ (официальный диллер Lada)
 Приложение создано для ускорения оформления заказов при покупке, продаже или любых других действиях выполняемых в автосалоне с клиентами.
 Клиенты, машины и сотрудники хранятся в БД.
 
-# Игра 2D https://github.com/NikitaTsekhanovich/MainGame1 (описание в репозитории)
-# Ссылка на сборку игры https://drive.google.com/uc?export=download&id=1tabsmwLjDIUbXjCI7qxowjcBjRX41bgf
+### Игра 2D https://github.com/NikitaTsekhanovich/MainGame1 (описание в репозитории)
+### Ссылка на сборку игры https://drive.google.com/uc?export=download&id=1tabsmwLjDIUbXjCI7qxowjcBjRX41bgf
 
 ### JavaScript
 Сайт FiitExpress https://github.com/SixBlueBlack/FiitExpress
@@ -65,13 +65,13 @@ https://ulearn.me/course/db/Podgotovka_985c5462-c6d1-47c9-9b8f-a270f24b7b42
 ![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/bf857b5e-e4ff-489a-ad6d-f524994e683a)
 ![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/a197b5c7-012b-442e-9cfc-4ee11d5e79dd)
 
-# Описание проекта:
+### Описание проекта:
 Сайт создан для размещения готовых заданий студентами для студентов. 
 Можно разместить свою анкету в качестве репетитора. На сайте есть регистрация через flask_login.
 Пользователи хранятся в БД. Связь между js и python строится на api. 
 По кнопке оформить отправляется письмо тому, кто выставил продукт, а также, тому, кто выполнил заказ. 
 
-### Python (Описание проектов в репозиториях)
-# Игра BattleCity https://github.com/NikitaTsekhanovich/BattleCity 
-# Караоке https://github.com/NikitaTsekhanovich/Karaoke
-# Утилита для работы с файлами в облаке https://github.com/NikitaTsekhanovich/Cloud
+# Python (Описание проектов в репозиториях)
+### Игра BattleCity https://github.com/NikitaTsekhanovich/BattleCity 
+### Караоке https://github.com/NikitaTsekhanovich/Karaoke
+### Утилита для работы с файлами в облаке https://github.com/NikitaTsekhanovich/Cloud

@@ -33,7 +33,6 @@ https://ulearn.me/course/db/Podgotovka_985c5462-c6d1-47c9-9b8f-a270f24b7b42
 
 # Мои проекты
 # C#
-#
 ### Игра 3D Shooter https://github.com/NikitaTsekhanovich/ShooterSurvivalZombie3D (описание в репозитории)
 ### Ссылка на сборку игры https://drive.google.com/uc?export=download&id=1K7JwwLuE7Fn0XK_Xkfkvc00Ym2bOOOte
 #

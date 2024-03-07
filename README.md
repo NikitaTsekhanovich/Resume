@@ -20,7 +20,8 @@ https://ulearn.me/course/db/Podgotovka_985c5462-c6d1-47c9-9b8f-a270f24b7b42
 
 ### - Алгоритмы и сложность алгоротмов;
 ### Статистика leetcode
-![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/27a2946d-4760-4d61-90dc-77fce9e4cf44) ![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/d552fc10-d18f-4f32-bdb5-7bb37cec393f)
+![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/6ed15672-ec17-444d-8c96-5b03b5744eb6)
+![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/d552fc10-d18f-4f32-bdb5-7bb37cec393f)
 ### Статистика codeforces
 ![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/d3ff2537-981e-4875-8184-90b2bb83219c)
 
@@ -31,21 +32,16 @@ https://ulearn.me/course/db/Podgotovka_985c5462-c6d1-47c9-9b8f-a270f24b7b42
 ### - Создание продукта.
 
 # Мои проекты
-### C#
-### Игра 3D Shooter https://github.com/NikitaTsekhanovich/ShooterSurvivalZombie3D (описание в репозитории)
+# C#
+# Игра 3D Shooter https://github.com/NikitaTsekhanovich/ShooterSurvivalZombie3D (описание в репозитории)
 ### Ссылка на сборку игры https://drive.google.com/uc?export=download&id=1K7JwwLuE7Fn0XK_Xkfkvc00Ym2bOOOte
-#
-### Игра 2D https://github.com/NikitaTsekhanovich/MainGame1 (описание в репозитории)
+# Игра 2D https://github.com/NikitaTsekhanovich/MainGame1 (описание в репозитории)
 ### Ссылка на сборку игры https://drive.google.com/uc?export=download&id=1tabsmwLjDIUbXjCI7qxowjcBjRX41bgf
-#
-### Python (Описание проектов в репозиториях)
+# Python (Описание проектов в репозиториях)
 ### Telegram bot. Бэкенд Django Rest Framework. БД PostgreSQL. https://github.com/NikitaTsekhanovich/TestTgBotDoubletapp
-###
-###
 ### Утилита для работы с файлами в облаке https://github.com/NikitaTsekhanovich/Cloud
 ### Игра BattleCity https://github.com/NikitaTsekhanovich/BattleCity 
 ### Караоке https://github.com/NikitaTsekhanovich/Karaoke
-#
 # Проекты в команде
 ### База данных для "ООО Автовек" https://github.com/SquirrelWithAvocado/BD-Autovek- 
 ### Бэкенд на C#.
@@ -53,8 +49,7 @@ https://ulearn.me/course/db/Podgotovka_985c5462-c6d1-47c9-9b8f-a270f24b7b42
 ### Сайт компании https://avtovek.lada.ru/ (официальный диллер Lada)
 Приложение создано для ускорения оформления заказов при покупке, продаже или любых других действиях выполняемых в автосалоне с клиентами.
 Клиенты, машины и сотрудники хранятся в БД.
-#
-### Сайт FiitExpress https://github.com/SixBlueBlack/FiitExpress
+# Сайт FiitExpress https://github.com/SixBlueBlack/FiitExpress
 ### Бэкенд на Python.
 ### Фронтенд на чистом JS, HTML и CSS.
 Скриншоты 
@@ -68,8 +63,7 @@ https://ulearn.me/course/db/Podgotovka_985c5462-c6d1-47c9-9b8f-a270f24b7b42
 Можно разместить свою анкету в качестве репетитора. На сайте есть регистрация через flask_login.
 Пользователи хранятся в БД. Связь между js и python строится на api. 
 По кнопке оформить отправляется письмо тому, кто выставил продукт, а также, тому, кто выполнил заказ. 
-#
-### Сайт Nucifraga
+# Сайт Nucifraga
 ### Бэкенд C# (Razor pages) https://github.com/tereshkovyv/Nucifraga-Back
 ### Фронтенд React https://github.com/tereshkovyv/Nucifraga-Front
 Скриншоты 

@@ -20,8 +20,7 @@ https://ulearn.me/course/db/Podgotovka_985c5462-c6d1-47c9-9b8f-a270f24b7b42
 
 ### - Алгоритмы и сложность алгоротмов;
 ### Статистика leetcode
-![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/27a2946d-4760-4d61-90dc-77fce9e4cf44)
-![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/d552fc10-d18f-4f32-bdb5-7bb37cec393f)
+![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/27a2946d-4760-4d61-90dc-77fce9e4cf44) ![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/d552fc10-d18f-4f32-bdb5-7bb37cec393f)
 ### Статистика codeforces
 ![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/d3ff2537-981e-4875-8184-90b2bb83219c)
 

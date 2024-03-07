@@ -1,9 +1,5 @@
 ### Resume
 
-# Немного о себе. 
-### Меня зовут Цеханович Никита Дмитриевич 17.02.2000 года рождения. Опыт работы в сфере IT отсутсвует. Работал 5 лет в атриум палас отеле официантом, барменом и менеджером.
-### Учусь на матмехе в УрФУ ИЕНиМ (Уральский федеральный университет. Институт естественных наук и математики) факультет ФИИТ (фундаментальная информатика и информационные технологии) на 3 курсе. Год окончания обучения 2025. В учебном курсе изучил и получил навыки по следующим основным направлениям:
-
 ### - Прошел три курса с выполнением имеющихся заданий по языку C# (глубокое изучение языка C# и паттернов программирования);
 
 - https://ulearn.me/course/basicprogramming2/1d5457ac-46f1-43af-b902-abfba0a0c280
@@ -28,36 +24,36 @@ https://ulearn.me/course/db/Podgotovka_985c5462-c6d1-47c9-9b8f-a270f24b7b42
 ### - Алгоритмы и сложность алгоротмов;
 ### - Создание продукта.
 
-### Soft skills:
-- Стрессоустойчивый;
-- Пунктуальный;
-- Умею находить решения для трудных задач;
-- Постоянно развиваюсь;
-- Нахожу общий язык с людьми;
-- Коммуникабельный.
-
 ### Немного из общих навыков:
 - Делал проекты в команде;
 - Имею понимание об публикациях игр в Steam и Google Play;
 - Умею работать с Git'ом.
 
-# Проекты
+# Мои проекты
 ### C#
 ### Игра 3D Shooter https://github.com/NikitaTsekhanovich/ShooterSurvivalZombie3D (описание в репозитории)
 ### Ссылка на сборку игры https://drive.google.com/uc?export=download&id=1K7JwwLuE7Fn0XK_Xkfkvc00Ym2bOOOte
 
+### Игра 2D https://github.com/NikitaTsekhanovich/MainGame1 (описание в репозитории)
+### Ссылка на сборку игры https://drive.google.com/uc?export=download&id=1tabsmwLjDIUbXjCI7qxowjcBjRX41bgf
+
+### Python (Описание проектов в репозиториях)
+### Telegram bot. Бэкенд Django Rest Framework. БД PostgreSQL. https://github.com/NikitaTsekhanovich/TestTgBotDoubletapp
+### Утилита для работы с файлами в облаке https://github.com/NikitaTsekhanovich/Cloud
+### Игра BattleCity https://github.com/NikitaTsekhanovich/BattleCity 
+### Караоке https://github.com/NikitaTsekhanovich/Karaoke
+
+# Проекты в команде
 ### База данных для "ООО Автовек" https://github.com/SquirrelWithAvocado/BD-Autovek- 
+### Бэкенд на C#.
 ### Интерфейс приложения: https://www.figma.com/file/GBM6juOXcsFesleLaBvfPc/Project?type=design&mode=design
 ### Сайт компании https://avtovek.lada.ru/ (официальный диллер Lada)
 Приложение создано для ускорения оформления заказов при покупке, продаже или любых других действиях выполняемых в автосалоне с клиентами.
 Клиенты, машины и сотрудники хранятся в БД.
 
-### Игра 2D https://github.com/NikitaTsekhanovich/MainGame1 (описание в репозитории)
-### Ссылка на сборку игры https://drive.google.com/uc?export=download&id=1tabsmwLjDIUbXjCI7qxowjcBjRX41bgf
-
-### JavaScript
-Сайт FiitExpress https://github.com/SixBlueBlack/FiitExpress
-
+### Сайт FiitExpress https://github.com/SixBlueBlack/FiitExpress
+### Бэкенд на Python.
+### Фронтенд на чистом JS, HTML и CSS.
 # Скриншоты 
 ![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/1993cfa6-00f6-4aa0-bfea-7db2f8a008d5)
 ![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/bb73eae4-4e55-4385-abb1-da216476fabb)
@@ -71,7 +67,14 @@ https://ulearn.me/course/db/Podgotovka_985c5462-c6d1-47c9-9b8f-a270f24b7b42
 Пользователи хранятся в БД. Связь между js и python строится на api. 
 По кнопке оформить отправляется письмо тому, кто выставил продукт, а также, тому, кто выполнил заказ. 
 
-# Python (Описание проектов в репозиториях)
-### Игра BattleCity https://github.com/NikitaTsekhanovich/BattleCity 
-### Караоке https://github.com/NikitaTsekhanovich/Karaoke
-### Утилита для работы с файлами в облаке https://github.com/NikitaTsekhanovich/Cloud
+### Сайт Nucifraga
+### Бэкенд C# (Razor pages) https://github.com/tereshkovyv/Nucifraga-Back
+### Фронтенд React https://github.com/tereshkovyv/Nucifraga-Front
+# Скриншоты 
+![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/eedfe7eb-660f-4e08-91e6-721371d23597)
+![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/63f4c096-5987-4f18-9b2b-46d1ef377e04)
+![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/de92033d-a78a-418b-a0a4-088a6f952a5d)
+![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/e9ef2b23-283d-4e5d-8ca9-490a3a39b0e6)
+
+
+

@@ -24,11 +24,6 @@ https://ulearn.me/course/db/Podgotovka_985c5462-c6d1-47c9-9b8f-a270f24b7b42
 ### - Алгоритмы и сложность алгоротмов;
 ### - Создание продукта.
 
-### Немного из общих навыков:
-- Делал проекты в команде;
-- Имею понимание об публикациях игр в Steam и Google Play;
-- Умею работать с Git'ом.
-
 # Мои проекты
 ### C#
 ### Игра 3D Shooter https://github.com/NikitaTsekhanovich/ShooterSurvivalZombie3D (описание в репозитории)

@@ -1,37 +1,4 @@
-### Resume
-
-### - Прошел три курса с выполнением имеющихся заданий по языку C# (глубокое изучение языка C# и паттернов программирования);
-
-- https://ulearn.me/course/basicprogramming2/1d5457ac-46f1-43af-b902-abfba0a0c280
-- https://ulearn.me/course/basicprogramming/a7a73125-2434-4b5d-9f31-4ef687fc8bcc
-- https://ulearn.me/course/cs2/7df81bac-f52c-4219-8663-4d215bafbc7a
-
-### - Курс машинного обучения;
-https://ulearn.me/Course/ML/Toxic_network_8922e2bf-5a64-4ad6-b798-d17de68a11e5
-
-### - Протоколы интернета (изучение всех уровней модели TCP/IP, в том числе обмены ключами и т. п.);
-https://ulearn.me/course/internet/Osnovy_organizatsii_komp_yuternykh_setey_21d5b967-68a2-44fb-ba97-52f11cb5fcb2
-
-### - Основы веб-разработки (изучение JavaScript, HTML, CSS.);
-https://ulearn.me/course/basic-web/Teoriya_7ac1f6d9-41d6-4309-8eda-8786ccc3f990
-
-### - Работа с базами данных (запросы на SQL);
-https://ulearn.me/course/db/Podgotovka_985c5462-c6d1-47c9-9b8f-a270f24b7b42
-
-### - Алгоритмы и структуры данных;
-### Статистика leetcode
-![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/6ed15672-ec17-444d-8c96-5b03b5744eb6)
-![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/d552fc10-d18f-4f32-bdb5-7bb37cec393f)
-### Статистика codeforces
-![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/d3ff2537-981e-4875-8184-90b2bb83219c)
-
-### - Язык python;
-### - Изучение работы операционных систем и архитектуры ЭВМ;
-### - Основы продуктового дизайна;
-### - Компьютерное зрение (на Python через библиотеку OpenCV);
-### - Создание продукта.
-
-# Мои проекты
+# Мои проекты.
 # C#
 ### Игра 3D Shooter https://github.com/NikitaTsekhanovich/ShooterSurvivalZombie3D (описание в репозитории)
 ### Ссылка на сборку игры https://drive.google.com/uc?export=download&id=1K7JwwLuE7Fn0XK_Xkfkvc00Ym2bOOOte
@@ -74,6 +41,40 @@ https://ulearn.me/course/db/Podgotovka_985c5462-c6d1-47c9-9b8f-a270f24b7b42
 ![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/63f4c096-5987-4f18-9b2b-46d1ef377e04)
 ![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/de92033d-a78a-418b-a0a4-088a6f952a5d)
 ![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/e9ef2b23-283d-4e5d-8ca9-490a3a39b0e6)
+
+# Дополнительная информация о навыках.
+
+### - Прошел три курса с выполнением имеющихся заданий по языку C# (глубокое изучение языка C# и паттернов программирования);
+
+- https://ulearn.me/course/basicprogramming2/1d5457ac-46f1-43af-b902-abfba0a0c280
+- https://ulearn.me/course/basicprogramming/a7a73125-2434-4b5d-9f31-4ef687fc8bcc
+- https://ulearn.me/course/cs2/7df81bac-f52c-4219-8663-4d215bafbc7a
+
+### - Курс машинного обучения;
+https://ulearn.me/Course/ML/Toxic_network_8922e2bf-5a64-4ad6-b798-d17de68a11e5
+
+### - Протоколы интернета (изучение всех уровней модели TCP/IP, в том числе обмены ключами и т. п.);
+https://ulearn.me/course/internet/Osnovy_organizatsii_komp_yuternykh_setey_21d5b967-68a2-44fb-ba97-52f11cb5fcb2
+
+### - Основы веб-разработки (изучение JavaScript, HTML, CSS.);
+https://ulearn.me/course/basic-web/Teoriya_7ac1f6d9-41d6-4309-8eda-8786ccc3f990
+
+### - Работа с базами данных (запросы на SQL);
+https://ulearn.me/course/db/Podgotovka_985c5462-c6d1-47c9-9b8f-a270f24b7b42
+
+### - Алгоритмы и структуры данных;
+### Статистика leetcode
+![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/6ed15672-ec17-444d-8c96-5b03b5744eb6)
+![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/d552fc10-d18f-4f32-bdb5-7bb37cec393f)
+### Статистика codeforces
+![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/d3ff2537-981e-4875-8184-90b2bb83219c)
+
+### - Язык python;
+### - Изучение работы операционных систем и архитектуры ЭВМ;
+### - Основы продуктового дизайна;
+### - Компьютерное зрение (на Python через библиотеку OpenCV);
+### - Создание продукта.
+
 
 
 

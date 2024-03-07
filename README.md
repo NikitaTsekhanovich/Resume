@@ -28,16 +28,16 @@ https://ulearn.me/course/db/Podgotovka_985c5462-c6d1-47c9-9b8f-a270f24b7b42
 ### C#
 ### Игра 3D Shooter https://github.com/NikitaTsekhanovich/ShooterSurvivalZombie3D (описание в репозитории)
 ### Ссылка на сборку игры https://drive.google.com/uc?export=download&id=1K7JwwLuE7Fn0XK_Xkfkvc00Ym2bOOOte
-
+#
 ### Игра 2D https://github.com/NikitaTsekhanovich/MainGame1 (описание в репозитории)
 ### Ссылка на сборку игры https://drive.google.com/uc?export=download&id=1tabsmwLjDIUbXjCI7qxowjcBjRX41bgf
-
+#
 ### Python (Описание проектов в репозиториях)
 ### Telegram bot. Бэкенд Django Rest Framework. БД PostgreSQL. https://github.com/NikitaTsekhanovich/TestTgBotDoubletapp
 ### Утилита для работы с файлами в облаке https://github.com/NikitaTsekhanovich/Cloud
 ### Игра BattleCity https://github.com/NikitaTsekhanovich/BattleCity 
 ### Караоке https://github.com/NikitaTsekhanovich/Karaoke
-
+#
 # Проекты в команде
 ### База данных для "ООО Автовек" https://github.com/SquirrelWithAvocado/BD-Autovek- 
 ### Бэкенд на C#.
@@ -45,7 +45,7 @@ https://ulearn.me/course/db/Podgotovka_985c5462-c6d1-47c9-9b8f-a270f24b7b42
 ### Сайт компании https://avtovek.lada.ru/ (официальный диллер Lada)
 Приложение создано для ускорения оформления заказов при покупке, продаже или любых других действиях выполняемых в автосалоне с клиентами.
 Клиенты, машины и сотрудники хранятся в БД.
-
+#
 ### Сайт FiitExpress https://github.com/SixBlueBlack/FiitExpress
 ### Бэкенд на Python.
 ### Фронтенд на чистом JS, HTML и CSS.
@@ -55,13 +55,12 @@ https://ulearn.me/course/db/Podgotovka_985c5462-c6d1-47c9-9b8f-a270f24b7b42
 ![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/9a153c6d-fd91-4234-97da-15d522a2df56)
 ![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/bf857b5e-e4ff-489a-ad6d-f524994e683a)
 ![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/a197b5c7-012b-442e-9cfc-4ee11d5e79dd)
-
 ### Описание проекта:
 Сайт создан для размещения готовых заданий студентами для студентов. 
 Можно разместить свою анкету в качестве репетитора. На сайте есть регистрация через flask_login.
 Пользователи хранятся в БД. Связь между js и python строится на api. 
 По кнопке оформить отправляется письмо тому, кто выставил продукт, а также, тому, кто выполнил заказ. 
-
+#
 ### Сайт Nucifraga
 ### Бэкенд C# (Razor pages) https://github.com/tereshkovyv/Nucifraga-Back
 ### Фронтенд React https://github.com/tereshkovyv/Nucifraga-Front

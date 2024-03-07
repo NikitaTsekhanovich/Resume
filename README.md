@@ -18,10 +18,17 @@ https://ulearn.me/course/basic-web/Teoriya_7ac1f6d9-41d6-4309-8eda-8786ccc3f990
 ### - Работа с базами данных (запросы на SQL);
 https://ulearn.me/course/db/Podgotovka_985c5462-c6d1-47c9-9b8f-a270f24b7b42
 
+### - Алгоритмы и сложность алгоротмов;
+### Статистика leetcode
+![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/27a2946d-4760-4d61-90dc-77fce9e4cf44)
+![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/d552fc10-d18f-4f32-bdb5-7bb37cec393f)
+### Статистика codeforces
+![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/d3ff2537-981e-4875-8184-90b2bb83219c)
+
 ### - Язык python;
 ### - Изучение работы операционных систем и архитектуры ЭВМ;
 ### - Основы продуктового дизайна;
-### - Алгоритмы и сложность алгоротмов;
+### - Компьютерное зрение (на Python через библиотеку OpenCV);
 ### - Создание продукта.
 
 # Мои проекты
@@ -34,6 +41,8 @@ https://ulearn.me/course/db/Podgotovka_985c5462-c6d1-47c9-9b8f-a270f24b7b42
 #
 ### Python (Описание проектов в репозиториях)
 ### Telegram bot. Бэкенд Django Rest Framework. БД PostgreSQL. https://github.com/NikitaTsekhanovich/TestTgBotDoubletapp
+###
+###
 ### Утилита для работы с файлами в облаке https://github.com/NikitaTsekhanovich/Cloud
 ### Игра BattleCity https://github.com/NikitaTsekhanovich/BattleCity 
 ### Караоке https://github.com/NikitaTsekhanovich/Karaoke
@@ -49,7 +58,7 @@ https://ulearn.me/course/db/Podgotovka_985c5462-c6d1-47c9-9b8f-a270f24b7b42
 ### Сайт FiitExpress https://github.com/SixBlueBlack/FiitExpress
 ### Бэкенд на Python.
 ### Фронтенд на чистом JS, HTML и CSS.
-# Скриншоты 
+Скриншоты 
 ![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/1993cfa6-00f6-4aa0-bfea-7db2f8a008d5)
 ![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/bb73eae4-4e55-4385-abb1-da216476fabb)
 ![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/9a153c6d-fd91-4234-97da-15d522a2df56)
@@ -64,7 +73,7 @@ https://ulearn.me/course/db/Podgotovka_985c5462-c6d1-47c9-9b8f-a270f24b7b42
 ### Сайт Nucifraga
 ### Бэкенд C# (Razor pages) https://github.com/tereshkovyv/Nucifraga-Back
 ### Фронтенд React https://github.com/tereshkovyv/Nucifraga-Front
-# Скриншоты 
+Скриншоты 
 ![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/eedfe7eb-660f-4e08-91e6-721371d23597)
 ![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/63f4c096-5987-4f18-9b2b-46d1ef377e04)
 ![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/de92033d-a78a-418b-a0a4-088a6f952a5d)

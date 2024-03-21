@@ -1,9 +1,12 @@
 # Мои проекты.
 # C#
-### Игра 3D Shooter https://github.com/NikitaTsekhanovich/ShooterSurvivalZombie3D (описание в репозитории)
+### Игра 3D Shooter https://github.com/NikitaTsekhanovich/ShooterSurvivalZombie3D
 ### Ссылка на сборку игры https://drive.google.com/uc?export=download&id=1K7JwwLuE7Fn0XK_Xkfkvc00Ym2bOOOte
 #
-### Игра 2D https://github.com/NikitaTsekhanovich/MainGame1 (описание в репозитории)
+### Игра Match 3 под android
+### Ссылка на сборку игры https://github.com/NikitaTsekhanovich/Test-Match-3 
+#
+### Игра 2D https://github.com/NikitaTsekhanovich/MainGame1
 ### Ссылка на сборку игры https://drive.google.com/uc?export=download&id=1tabsmwLjDIUbXjCI7qxowjcBjRX41bgf
 # Python (Описание проектов в репозиториях)
 # Telegram bot. Бэкенд Django Rest Framework. БД PostgreSQL. https://github.com/NikitaTsekhanovich/TestTgBotDoubletapp

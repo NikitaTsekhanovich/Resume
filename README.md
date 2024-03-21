@@ -3,8 +3,7 @@
 ### Игра 3D Shooter https://github.com/NikitaTsekhanovich/ShooterSurvivalZombie3D
 ### Ссылка на сборку игры https://drive.google.com/uc?export=download&id=1K7JwwLuE7Fn0XK_Xkfkvc00Ym2bOOOte
 #
-### Игра Match 3 под android
-### Ссылка на сборку игры https://github.com/NikitaTsekhanovich/Test-Match-3 
+### Игра Match 3 под android https://github.com/NikitaTsekhanovich/Test-Match-3 
 #
 ### Игра 2D https://github.com/NikitaTsekhanovich/MainGame1
 ### Ссылка на сборку игры https://drive.google.com/uc?export=download&id=1tabsmwLjDIUbXjCI7qxowjcBjRX41bgf

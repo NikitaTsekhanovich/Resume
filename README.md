@@ -67,9 +67,11 @@ https://ulearn.me/course/db/Podgotovka_985c5462-c6d1-47c9-9b8f-a270f24b7b42
 ### - Алгоритмы и структуры данных;
 ### Статистика leetcode (ссылка на профиль https://leetcode.com/user7384yo/)
 ![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/d3249573-2533-498d-9b65-f2d481c63610)
-![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/d3ff2537-981e-4875-8184-90b2bb83219c)
-### Статистика codeforces 
 ![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/8da97fb8-1346-432b-8837-eb108205e21a)
+
+### Статистика codeforces  (ссылка на профиль https://codeforces.com/profile/NikitaTsekhanovich)
+![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/d3ff2537-981e-4875-8184-90b2bb83219c)
+
 ### - Язык python;
 ### - Изучение работы операционных систем и архитектуры ЭВМ;
 ### - Основы продуктового дизайна;

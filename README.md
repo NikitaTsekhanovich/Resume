@@ -1,12 +1,3 @@
-# Мои проекты.
-# C#
-### Игра 3D Shooter https://github.com/NikitaTsekhanovich/ShooterSurvivalZombie3D
-### Ссылка на сборку игры https://drive.google.com/uc?export=download&id=1K7JwwLuE7Fn0XK_Xkfkvc00Ym2bOOOte
-#
-### Игра Match 3 под android https://github.com/NikitaTsekhanovich/Test-Match-3 
-#
-### Игра 2D https://github.com/NikitaTsekhanovich/MainGame1
-### Ссылка на сборку игры https://drive.google.com/uc?export=download&id=1tabsmwLjDIUbXjCI7qxowjcBjRX41bgf
 # Python (Описание проектов в репозиториях)
 ### Telegram bot. Бэкенд Django Rest Framework. БД PostgreSQL. https://github.com/NikitaTsekhanovich/TestTgBotDoubletapp
 #
@@ -24,8 +15,8 @@
 Клиенты, машины и сотрудники хранятся в БД.
 #
 ### Сайт FiitExpress https://github.com/SixBlueBlack/FiitExpress
-### Бэкенд на Python.
-### Фронтенд на чистом JS, HTML и CSS.
+Бэкенд на Python.
+Фронтенд на чистом JS, HTML и CSS.
 Скриншоты 
 ![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/1993cfa6-00f6-4aa0-bfea-7db2f8a008d5)
 ![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/bb73eae4-4e55-4385-abb1-da216476fabb)
@@ -39,8 +30,8 @@
 По кнопке оформить отправляется письмо тому, кто выставил продукт, а также, тому, кто выполнил заказ. 
 #
 ### Сайт Nucifraga
-### Бэкенд C# (Razor pages) https://github.com/tereshkovyv/Nucifraga-Back
-### Фронтенд React https://github.com/tereshkovyv/Nucifraga-Front
+Бэкенд C# (Razor pages) https://github.com/tereshkovyv/Nucifraga-Back
+Фронтенд React https://github.com/tereshkovyv/Nucifraga-Front
 Скриншоты 
 ![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/eedfe7eb-660f-4e08-91e6-721371d23597)
 ![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/63f4c096-5987-4f18-9b2b-46d1ef377e04)
@@ -55,6 +46,8 @@
 - https://ulearn.me/course/basicprogramming/a7a73125-2434-4b5d-9f31-4ef687fc8bcc
 - https://ulearn.me/course/cs2/7df81bac-f52c-4219-8663-4d215bafbc7a
 
+### Курс "Targem Level Up" от компании "Targem Games".
+
 ### - Курс машинного обучения;
 https://ulearn.me/Course/ML/Toxic_network_8922e2bf-5a64-4ad6-b798-d17de68a11e5
 
@@ -68,17 +61,19 @@ https://ulearn.me/course/basic-web/Teoriya_7ac1f6d9-41d6-4309-8eda-8786ccc3f990
 https://ulearn.me/course/db/Podgotovka_985c5462-c6d1-47c9-9b8f-a270f24b7b42
 
 ### - Алгоритмы и структуры данных;
+
 ### Статистика leetcode (ссылка на профиль https://leetcode.com/user7384yo/)
-![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/d3249573-2533-498d-9b65-f2d481c63610)
-![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/8da97fb8-1346-432b-8837-eb108205e21a)
 
 ### Статистика codeforces  (ссылка на профиль https://codeforces.com/profile/NikitaTsekhanovich)
-![image](https://github.com/NikitaTsekhanovich/Resume/assets/92225631/d3ff2537-981e-4875-8184-90b2bb83219c)
 
 ### - Язык python;
+
 ### - Изучение работы операционных систем и архитектуры ЭВМ;
+
 ### - Основы продуктового дизайна;
-### - Компьютерное зрение (на Python через библиотеку OpenCV);
+
+### - Компьютерное зрение (OpenCV);
+
 ### - Создание продукта.
 
 

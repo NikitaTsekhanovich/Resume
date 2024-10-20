@@ -46,7 +46,7 @@
 - https://ulearn.me/course/basicprogramming/a7a73125-2434-4b5d-9f31-4ef687fc8bcc
 - https://ulearn.me/course/cs2/7df81bac-f52c-4219-8663-4d215bafbc7a
 
-### Курс "Targem Level Up" от компании "Targem Games".
+### - Курс "Targem Level Up" от компании "Targem Games".
 
 ### - Курс машинного обучения;
 https://ulearn.me/Course/ML/Toxic_network_8922e2bf-5a64-4ad6-b798-d17de68a11e5
@@ -62,9 +62,9 @@ https://ulearn.me/course/db/Podgotovka_985c5462-c6d1-47c9-9b8f-a270f24b7b42
 
 ### - Алгоритмы и структуры данных;
 
-### Статистика leetcode (ссылка на профиль https://leetcode.com/user7384yo/)
+### - Статистика leetcode (ссылка на профиль https://leetcode.com/user7384yo/)
 
-### Статистика codeforces  (ссылка на профиль https://codeforces.com/profile/NikitaTsekhanovich)
+### - Статистика codeforces  (ссылка на профиль https://codeforces.com/profile/NikitaTsekhanovich)
 
 ### - Язык python;
 

@@ -23,11 +23,8 @@ Photon pun 2:
 
 # Python (Описание проектов в репозиториях)
 ### Telegram bot. Бэкенд Django Rest Framework. БД PostgreSQL. https://github.com/NikitaTsekhanovich/TestTgBotDoubletapp
-#
 ### Утилита для работы с файлами в облаке https://github.com/NikitaTsekhanovich/Cloud
-#
 ### Игра BattleCity https://github.com/NikitaTsekhanovich/BattleCity 
-#
 ### Караоке https://github.com/NikitaTsekhanovich/Karaoke
 # Проекты в команде
 ### База данных для "ООО Автовек" https://github.com/SquirrelWithAvocado/BD-Autovek- 

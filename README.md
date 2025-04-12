@@ -8,13 +8,15 @@ ECS:
 - https://github.com/NikitaTsekhanovich/Fatewoven-Duel.
   
 Photon pun 2:
+- https://github.com/NikitaTsekhanovich/Beak-Blasters;
 - https://github.com/NikitaTsekhanovich/Leaf-Blade-Warriors;
 - https://github.com/NikitaTsekhanovich/Blaze-and-Chill-Warriors.
   
 3D:
 - https://github.com/NikitaTsekhanovich/Starfall-Tower.
   
-Крайний проект:
+Крайние проекты:
+- https://github.com/NikitaTsekhanovich/Beak-Blasters;
 - https://github.com/NikitaTsekhanovich/Cheery-Cannon;
   
 # Далее информация о других проектах и навыках.

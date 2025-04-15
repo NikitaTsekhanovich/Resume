@@ -2,11 +2,6 @@
 
 Некоторые из проектов.
 
-ECS:
-- https://github.com/NikitaTsekhanovich/Arcane-Blast-Path;
-- https://github.com/NikitaTsekhanovich/Gods-Connect;
-- https://github.com/NikitaTsekhanovich/Fatewoven-Duel.
-  
 Photon pun 2:
 - https://github.com/NikitaTsekhanovich/Beak-Blasters;
 - https://github.com/NikitaTsekhanovich/Leaf-Blade-Warriors;
@@ -18,6 +13,11 @@ Photon pun 2:
 Крайние проекты:
 - https://github.com/NikitaTsekhanovich/Beak-Blasters;
 - https://github.com/NikitaTsekhanovich/Cheery-Cannon;
+
+ECS:
+- https://github.com/NikitaTsekhanovich/Arcane-Blast-Path;
+- https://github.com/NikitaTsekhanovich/Gods-Connect;
+- https://github.com/NikitaTsekhanovich/Fatewoven-Duel.
   
 # Далее информация о других проектах и навыках.
 

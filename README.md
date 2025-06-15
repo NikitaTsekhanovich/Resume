@@ -8,11 +8,13 @@ Photon pun 2:
 - https://github.com/NikitaTsekhanovich/Blaze-and-Chill-Warriors.
   
 3D:
+- https://github.com/NikitaTsekhanovich/Egg-Patrol;
 - https://github.com/NikitaTsekhanovich/Starfall-Tower.
   
 Крайние проекты:
+- https://github.com/NikitaTsekhanovich/Egg-Patrol;
 - https://github.com/NikitaTsekhanovich/Beak-Blasters;
-- https://github.com/NikitaTsekhanovich/Cheery-Cannon;
+- https://github.com/NikitaTsekhanovich/Cheery-Cannon.
 
 ECS:
 - https://github.com/NikitaTsekhanovich/Arcane-Blast-Path;

@@ -1,4 +1,4 @@
-# Unity. Проекты, сделанные в Marlerino Group от идеи до релиза. Выполнил более 19 проектов.
+# Unity. Проекты, сделанные в Marlerino Group от идеи до релиза. Выполнил более 25 проектов.
 
 Некоторые из проектов.
 
@@ -13,7 +13,7 @@ Photon pun 2:
 - https://github.com/NikitaTsekhanovich/Starfall-Tower.
   
 Крайние проекты:
-- - https://github.com/NikitaTsekhanovich/Shadow-Bound;;
+- - https://github.com/NikitaTsekhanovich/Shadow-Bound;
 - https://github.com/NikitaTsekhanovich/Egg-Patrol;
 - https://github.com/NikitaTsekhanovich/Beak-Blasters.
 

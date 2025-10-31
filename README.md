@@ -1,9 +1,7 @@
 # Пет проект
 https://github.com/NikitaTsekhanovich/Asteroids
 
-# Unity. Некоторые некоторые прототипы, сделанные в Marlerino Group от идеи до релиза.
-
-Некоторые из проектов.
+# Unity. Некоторые прототипы, сделанные в Marlerino Group от идеи до релиза.
 
 Photon pun 2:
 - https://github.com/NikitaTsekhanovich/Beak-Blasters;

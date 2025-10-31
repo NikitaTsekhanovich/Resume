@@ -20,7 +20,7 @@ Photon pun 2:
 - https://github.com/NikitaTsekhanovich/Egg-Patrol;
 - https://github.com/NikitaTsekhanovich/Beak-Blasters.
 
-ECS:
+LeoECS:
 - https://github.com/NikitaTsekhanovich/Arcane-Blast-Path;
 - https://github.com/NikitaTsekhanovich/Gods-Connect;
 - https://github.com/NikitaTsekhanovich/Fatewoven-Duel.

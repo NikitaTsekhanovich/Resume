@@ -1,7 +1,7 @@
 # Пет проект
 https://github.com/NikitaTsekhanovich/Asteroids
 
-# Unity. Некоторые проекты, сделанные в Marlerino Group от идеи до релиза.
+# Unity. Некоторые некоторые прототипы, сделанные в Marlerino Group от идеи до релиза.
 
 Некоторые из проектов.
 

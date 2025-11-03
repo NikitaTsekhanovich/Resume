@@ -14,7 +14,7 @@ Photon pun 2:
 - https://github.com/NikitaTsekhanovich/Starfall-Tower.
   
 Крайние проекты:
-- https://github.com/NikitaTsekhanovich/Shadow-Bound;
+- https://github.com/NikitaTsekhanovich/Shadow-Bound-description;
 - https://github.com/NikitaTsekhanovich/Egg-Patrol;
 - https://github.com/NikitaTsekhanovich/Beak-Blasters.
 

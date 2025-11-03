@@ -9,7 +9,7 @@ Photon pun 2:
 - https://github.com/NikitaTsekhanovich/Blaze-and-Chill-Warriors.
   
 3D:
-- https://github.com/NikitaTsekhanovich/Shadow-Bound;
+- https://github.com/NikitaTsekhanovich/Shadow-Bound-description;
 - https://github.com/NikitaTsekhanovich/Egg-Patrol;
 - https://github.com/NikitaTsekhanovich/Starfall-Tower.
   

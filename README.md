@@ -3,15 +3,15 @@ https://github.com/NikitaTsekhanovich/Asteroids
 
 # Unity. Некоторые прототипы, сделанные в Marlerino Group от идеи до релиза.
 
-Photon pun 2:
-- https://github.com/NikitaTsekhanovich/Beak-Blasters;
-- https://github.com/NikitaTsekhanovich/Leaf-Blade-Warriors;
-- https://github.com/NikitaTsekhanovich/Blaze-and-Chill-Warriors.
-  
 3D:
 - https://github.com/NikitaTsekhanovich/Shadow-Bound-description;
 - https://github.com/NikitaTsekhanovich/Egg-Patrol;
 - https://github.com/NikitaTsekhanovich/Starfall-Tower.
+
+Photon pun 2:
+- https://github.com/NikitaTsekhanovich/Beak-Blasters;
+- https://github.com/NikitaTsekhanovich/Leaf-Blade-Warriors;
+- https://github.com/NikitaTsekhanovich/Blaze-and-Chill-Warriors.
   
 Крайние проекты:
 - https://github.com/NikitaTsekhanovich/Shadow-Bound-description;

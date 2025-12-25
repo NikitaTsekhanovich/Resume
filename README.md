@@ -1,7 +1,7 @@
 # Демонстрационный проект
 https://github.com/NikitaTsekhanovich/Asteroids
 
-# Unity. Некоторые прототипы, сделанные в Marlerino Group от идеи до релиза.
+# Unity. Некоторые прототипы, сделанные в Marlerino Group от идеи до релиза. Проекты на ранней стадии разработки.
 
 3D:
 - https://github.com/NikitaTsekhanovich/Shadow-Bound-description;

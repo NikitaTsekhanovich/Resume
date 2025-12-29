@@ -1,6 +1,9 @@
 # Демонстрационный проект
 https://github.com/NikitaTsekhanovich/Asteroids
 
+# Личный проект, который находится в процессе модерации на яндекс играх.
+https://github.com/NikitaTsekhanovich/Shadow-Bound-description
+
 # Unity. Некоторые прототипы, сделанные в Marlerino Group от идеи до релиза. 
 
 3D:
@@ -14,7 +17,6 @@ Photon pun 2:
 - https://github.com/NikitaTsekhanovich/Blaze-and-Chill-Warriors.
   
 Крайние проекты:
-- https://github.com/NikitaTsekhanovich/Shadow-Bound-description;
 - https://github.com/NikitaTsekhanovich/Egg-Patrol;
 - https://github.com/NikitaTsekhanovich/Beak-Blasters.
 

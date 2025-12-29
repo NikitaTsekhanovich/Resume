@@ -4,7 +4,7 @@ https://github.com/NikitaTsekhanovich/Asteroids
 # Личный проект, который находится в процессе модерации на яндекс играх.
 https://github.com/NikitaTsekhanovich/Shadow-Bound-description
 
-# Unity. Некоторые прототипы, сделанные в Marlerino Group от идеи до релиза. 
+# Некоторые прототипы, сделанные в Marlerino Group от идеи до релиза в мобильных магазинах. 
 
 3D:
 - https://github.com/NikitaTsekhanovich/Shadow-Bound-description;

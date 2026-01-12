@@ -1,8 +1,8 @@
 # Демонстрационный проект
 https://github.com/NikitaTsekhanovich/Asteroids
 
-# Личный проект, который находится в процессе модерации на яндекс играх.
-https://github.com/NikitaTsekhanovich/Shadow-Bound-description
+# Личный проект на яндекс играх
+[https://github.com/NikitaTsekhanovich/Shadow-Bound-description](https://yandex.ru/games/app/craft-shadow-battler-481891)
 
 # Некоторые прототипы, сделанные в Marlerino Group от идеи до релиза. 
 

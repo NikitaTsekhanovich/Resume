@@ -2,7 +2,7 @@
 https://github.com/NikitaTsekhanovich/Asteroids
 
 # Личный проект на яндекс играх
-[https://github.com/NikitaTsekhanovich/Shadow-Bound-description](https://yandex.ru/games/app/craft-shadow-battler-481891)
+https://yandex.ru/games/app/craft-shadow-battler-481891
 
 # Некоторые прототипы, сделанные в Marlerino Group от идеи до релиза. 
 

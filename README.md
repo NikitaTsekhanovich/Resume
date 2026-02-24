@@ -1,6 +1,3 @@
-# Демонстрационный проект
-https://github.com/NikitaTsekhanovich/Asteroids
-
 # Личный проект на яндекс играх
 https://yandex.ru/games/app/craft-shadow-battler-481891
 

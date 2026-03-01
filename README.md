@@ -7,14 +7,18 @@
 - https://github.com/NikitaTsekhanovich/Egg-Patrol;
 - https://github.com/NikitaTsekhanovich/Starfall-Tower.
 
+2D:
+- https://github.com/NikitaTsekhanovich/Knight-s-Rival;
+- https://github.com/NikitaTsekhanovich/Bamboo-Journey;
+- https://github.com/NikitaTsekhanovich/Cheery-Cannon;
+- https://github.com/NikitaTsekhanovich/Bubble-Drift;
+- https://github.com/NikitaTsekhanovich/Gods-Connect;
+- https://github.com/NikitaTsekhanovich/Interstellar-Unity;
+
 Photon pun 2:
 - https://github.com/NikitaTsekhanovich/Beak-Blasters;
 - https://github.com/NikitaTsekhanovich/Leaf-Blade-Warriors;
 - https://github.com/NikitaTsekhanovich/Blaze-and-Chill-Warriors.
-  
-Крайние проекты:
-- https://github.com/NikitaTsekhanovich/Egg-Patrol;
-- https://github.com/NikitaTsekhanovich/Beak-Blasters.
 
 LeoECS:
 - https://github.com/NikitaTsekhanovich/Arcane-Blast-Path;

@@ -1,10 +1,9 @@
-# Мой проект на яндекс играх
-https://yandex.ru/games/app/craft-shadow-battler-481891
+# Мой проект, который публиковался на яндекс играх.
+- [https://yandex.ru/games/app/craft-shadow-battler-481891](https://github.com/NikitaTsekhanovich/Craft-Shadow-Battler-description)
 
 # Некоторые прототипы, сделанные в Marlerino Group от идеи до релиза. 
 
 3D:
-- https://github.com/NikitaTsekhanovich/Shadow-Bound-description;
 - https://github.com/NikitaTsekhanovich/Egg-Patrol;
 - https://github.com/NikitaTsekhanovich/Starfall-Tower.
 

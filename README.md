@@ -1,7 +1,7 @@
 # Мой проект, который публиковался на яндекс играх.
 - [https://yandex.ru/games/app/craft-shadow-battler-481891](https://github.com/NikitaTsekhanovich/Craft-Shadow-Battler-description)
 
-# Некоторые прототипы, сделанные в Marlerino Group от идеи до релиза. 
+# Некоторые прототипы, сделанные в Marlerino Group с 0 до релиза. 
 
 3D:
 - https://github.com/NikitaTsekhanovich/Egg-Patrol;
